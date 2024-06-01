@@ -21,7 +21,7 @@ foundryup
 
 2. **Clone This Repo and install dependencies**
 ``` 
-git clone https://github.com/itsmohamamdh/
+git clone https://github.com/itsmohammadh/damnvulnerabledefi-v2.git
 cd damn-vulnerable-defi-foundry-v2
 forge install
 ```
