@@ -1,3 +1,34 @@
+# Damn Vulnerable DeFi - Foundry Version ⚒️
+
+Visit [damnvulnerabledefi.xyz](https://damnvulnerabledefi.xyz)
+
+
+## How To Play 🕹️
+
+1.  **Install Foundry**
+
+First run the command below to get foundryup, the Foundry toolchain installer:
+
+``` bash
+curl -L https://foundry.paradigm.xyz | bash
+```
+
+Then, in a new terminal session or after reloading your PATH, run it to get the latest forge and cast binaries:
+
+``` console
+foundryup
+```
+
+2. **Clone This Repo and install dependencies**
+``` 
+git clone https://github.com/itsmohamamdh/
+cd damn-vulnerable-defi-foundry-v2
+forge install
+```
+3. **Code your solutions in the provided `[NAME_OF_THE_LEVEL].t.sol` files (inside each level's folder in the test folder)**
+4. **Run your exploit for a challenge**
+```
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
